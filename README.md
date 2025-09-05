@@ -1,10 +1,10 @@
 # Challenge Amigo Secreto
 
-Esta aplicação permite que os utilizadores adicionem os nomes dos seus amigos a uma lista e, no final, sorteiem um amigo secreto de forma aleatória.
+Esta aplicação permite que os jogadores adicionem os nomes dos seus amigos a uma lista e, no final, sorteiem um amigo secreto de forma aleatória.
 
 ## 📖 Descrição do Projeto
 
-O projeto Amigo Secreto foi desenvolvido com o intuito de proporcionar aos utilizadores uma experiência simples e divertida para realizar sorteios de amigo secreto de forma rápida e eficiente. Com esta aplicação, os utilizadores podem inserir nomes, visualizar a lista e, no final, sortear um nome de forma totalmente aleatória.
+O jogo Amigo Secreto foi desenvolvido com o intuito de proporcionar aos jogadores uma experiência simples e divertida para realizar sorteios de amigo secreto de forma rápida e eficiente. Com esta aplicação, os jogadores podem inserir nomes, visualizar a lista e, no final, sortear um nome de forma totalmente aleatória.
 
 ## 📊 Estado do Projeto
 
@@ -12,7 +12,7 @@ Este projeto está concluído, mas pode continuar a ser aprimorado. Funcionalida
 
 ## 📱 Funcionalidades
 
-  - **Adicionar Amigos:** O utilizador pode adicionar nomes de amigos num campo de texto.
+  - **Adicionar Amigos:** O jogador pode adicionar nomes de amigos num campo de texto.
   - **Visualizar a Lista:** Os nomes dos amigos adicionados são exibidos numa lista visível no ecrã.
   - **Sortear Amigo Secreto:** O sistema sorteia aleatoriamente um amigo da lista e exibe o nome do "amigo secreto".
 
