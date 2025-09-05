@@ -1,4 +1,4 @@
-# Challenge Amigo Secreto
+# Challenge Amigo Secreto with Deploy
 
 Esta aplicação permite que os jogadores adicionem os nomes dos seus amigos a uma lista e, no final, sorteiem um amigo secreto de forma aleatória.
 
