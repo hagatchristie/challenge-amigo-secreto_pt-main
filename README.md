@@ -37,7 +37,3 @@ Para aceder ao projeto localmente, siga os passos abaixo:
 
   - **Adicionar amigos:** Digite o nome do amigo e clique no botão "Adicionar".
   - **Sortear amigo secreto:** Após adicionar os amigos, clique no botão "Sortear amigo" para escolher aleatoriamente um nome da lista.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Consulte o ficheiro [LICENSE](https://www.google.com/search?q=LICENSE) para obter mais detalhes.
