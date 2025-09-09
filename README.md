@@ -33,7 +33,7 @@ Para aceder ao projeto localmente, siga os passos abaixo:
     ```
 2.  **Abra o ficheiro `index.html` no seu navegador.**
 
-## demonstration
+## Demonstração
 
   - **Adicionar amigos:** Digite o nome do amigo e clique no botão "Adicionar".
   - **Sortear amigo secreto:** Após adicionar os amigos, clique no botão "Sortear amigo" para escolher aleatoriamente um nome da lista.
